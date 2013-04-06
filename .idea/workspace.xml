@@ -45,7 +45,11 @@
         <entry file="file://$PROJECT_DIR$/templates/flatpages/default.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
+              <folding>
+                <marker date="1364384135482" expanded="true" signature="21:125" placeholder="..." />
+                <marker date="1364384135482" expanded="true" signature="29:76" placeholder="..." />
+                <marker date="1364384135482" expanded="true" signature="84:116" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,6 +195,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../p6_django/mysite" />
   </component>
   <component name="RunManager" selected="Django server.mysite">
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
@@ -330,7 +335,11 @@
     <entry file="file://$PROJECT_DIR$/templates/flatpages/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1364384135482" expanded="true" signature="21:125" placeholder="..." />
+            <marker date="1364384135482" expanded="true" signature="29:76" placeholder="..." />
+            <marker date="1364384135482" expanded="true" signature="84:116" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
